@@ -1,4 +1,4 @@
-* **A ``README.md`` file** containing a detailed explanation of the process followed in the design and construction of your pipeline and incorporation of intermediate Python concepts as well as your results, obstacles encountered, and lessons learned.
+ **A ``README.md`` file** containing a detailed explanation of the process followed in the design and construction of your pipeline and incorporation of intermediate Python concepts as well as your results, obstacles encountered, and lessons learned.
 
 ## Technical Requirements
 
